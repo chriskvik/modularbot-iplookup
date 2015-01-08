@@ -18,5 +18,6 @@ Simple ip-lookup module for your [ModularBot](https://github.com/Xstasy/modular-
 
 ```
 This modules has no dependencies, except the ones required by modularbot. (Request)
-Just copy the script to your ModularBot /modules folder. And issue the reload command, in cli or #channel. (.reload).
+Just copy the script to your ModularBot /modules folder. 
+And issue the reload command, in cli or #channel. (.reload).
 ```
